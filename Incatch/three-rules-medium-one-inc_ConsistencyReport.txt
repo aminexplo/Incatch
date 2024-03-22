@@ -1,0 +1,8 @@
+Inconsistencies found in scenario: three-rules-medium-one-inc
+
+INCONSISTENT:
+Check three_rules_medium_one_inc_Assertion____R2____R3 for 1
+
+INCONSISTENT:
+Check three_rules_medium_one_inc_Assertion____R3____R1 for 1
+

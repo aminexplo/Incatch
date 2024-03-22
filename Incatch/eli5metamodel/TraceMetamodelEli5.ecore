@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="TraceMetamodelEli5" nsURI="zombie.incatch.tracemetamodeleli5"
+    nsPrefix="tmelif">
+  <eClassifiers xsi:type="ecore:EClass" name="Scenario">
+    <eAnnotations source="gmf.diagram">
+      <details key="model.extension" value="tmelif"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="rules" lowerBound="2" upperBound="-1"
+        eType="#//Rule" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Rule">
+    <eAnnotations source="gmf.node">
+      <details key="color" value="63,63,63"/>
+      <details key="figure" value="ellipse"/>
+      <details key="label" value="name"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="artifact" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="evalResult" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="relatedRules" lowerBound="1"
+        upperBound="-1" eType="#//Rule"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="ruleDef" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="type" eType="#//RuleType"
+        defaultValueLiteral="Unknown"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="RuleType">
+    <eLiterals name="Range" value="1"/>
+    <eLiterals name="Required" value="2"/>
+    <eLiterals name="RecordLimit" value="3" literal="RecordLimit"/>
+    <eLiterals name="Unknown"/>
+  </eClassifiers>
+</ecore:EPackage>

@@ -1,0 +1,193 @@
+<alloy builddate="2019-08-14T18:53:58.297Z">
+
+<instance bitwidth="4" maxseq="7" command="Check myConstraints_Assertion for 10" filename="">
+
+<sig label="seq/Int" ID="0" parentID="1" builtin="yes">
+</sig>
+
+<sig label="Int" ID="1" parentID="2" builtin="yes">
+</sig>
+
+<sig label="String" ID="3" parentID="2" builtin="yes">
+</sig>
+
+<sig label="this/PaperSimpleValue" ID="4" parentID="5" one="yes">
+   <atom label="PaperSimpleValue$0"/>
+</sig>
+
+<sig label="this/Paper" ID="6" parentID="5" one="yes">
+   <atom label="Paper$0"/>
+</sig>
+
+<sig label="Consistency/Artifact" ID="5" parentID="2">
+   <atom label="Consistency/Artifact$0"/>
+</sig>
+
+<sig label="this/Len1024" ID="7" parentID="8" one="yes">
+   <atom label="Len1024$0"/>
+</sig>
+
+<sig label="this/Len3" ID="9" parentID="8" one="yes">
+   <atom label="Len3$0"/>
+</sig>
+
+<sig label="Consistency/Rule" ID="8" parentID="2">
+   <atom label="Consistency/Rule$0"/>
+   <atom label="Consistency/Rule$1"/>
+   <atom label="Consistency/Rule$2"/>
+   <atom label="Consistency/Rule$3"/>
+   <atom label="Consistency/Rule$4"/>
+   <atom label="Consistency/Rule$5"/>
+   <atom label="Consistency/Rule$6"/>
+   <atom label="Consistency/Rule$7"/>
+</sig>
+
+<sig label="this/myConstraints" ID="10" parentID="11" one="yes">
+   <atom label="myConstraints$0"/>
+</sig>
+
+<sig label="Consistency/Scenario" ID="11" parentID="2">
+   <atom label="Consistency/Scenario$0"/>
+   <atom label="Consistency/Scenario$1"/>
+   <atom label="Consistency/Scenario$2"/>
+   <atom label="Consistency/Scenario$3"/>
+   <atom label="Consistency/Scenario$4"/>
+   <atom label="Consistency/Scenario$5"/>
+   <atom label="Consistency/Scenario$6"/>
+</sig>
+
+<field label="artifacts" ID="12" parentID="11">
+   <tuple> <atom label="myConstraints$0"/> <atom label="PaperSimpleValue$0"/> </tuple>
+   <tuple> <atom label="myConstraints$0"/> <atom label="Paper$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Paper$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Paper$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="PaperSimpleValue$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Paper$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> </tuple>
+   <types> <type ID="11"/> <type ID="5"/> </types>
+</field>
+
+<field label="rules" ID="13" parentID="11">
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$0"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$0"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$0"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$0"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$1"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$1"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$1"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$2"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$2"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$2"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$3"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$3"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$3"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <types> <type ID="11"/> <type ID="8"/> </types>
+</field>
+
+<field label="givenRM" ID="14" parentID="11">
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len1024$0"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len3$0"/> <atom label="Len1024$0"/> </tuple>
+   <types> <type ID="11"/> <type ID="8"/> <type ID="8"/> </types>
+</field>
+
+<field label="givenRE" ID="15" parentID="11">
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len1024$0"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len3$0"/> <atom label="Len1024$0"/> </tuple>
+   <types> <type ID="11"/> <type ID="8"/> <type ID="8"/> </types>
+</field>
+
+<field label="givenTranslation" ID="16" parentID="11">
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len1024$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="myConstraints$0"/> <atom label="Len3$0"/> <atom label="Len3$0"/> </tuple>
+   <types> <type ID="11"/> <type ID="8"/> <type ID="8"/> </types>
+</field>
+
+<field label="givenE" ID="17" parentID="11">
+   <tuple> <atom label="myConstraints$0"/> <atom label="PaperSimpleValue$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="myConstraints$0"/> <atom label="Paper$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$4"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$5"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="PaperSimpleValue$0"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="PaperSimpleValue$0"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="PaperSimpleValue$0"/> <atom label="Consistency/Rule$7"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Paper$0"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Len1024$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Len3$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$0"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$1"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$2"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$3"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$4"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$5"/> </tuple>
+   <tuple> <atom label="Consistency/Scenario$6"/> <atom label="Consistency/Artifact$0"/> <atom label="Consistency/Rule$6"/> </tuple>
+   <types> <type ID="11"/> <type ID="5"/> <type ID="8"/> </types>
+</field>
+
+<sig label="univ" ID="2" builtin="yes">
+</sig>
+
+</instance>
+
+</alloy>

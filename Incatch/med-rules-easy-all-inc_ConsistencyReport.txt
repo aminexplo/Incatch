@@ -1,0 +1,32 @@
+No inconsistencies found in scenario: med-rules-easy-all-inc
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R1____R2 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R5____R6 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R7____R8 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R9____R10 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R11____R12 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R13____R14 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R15____R16 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R17____R18 for 1
+
+CONSISTENT:
+Check med_rules_easy_all_inc_Assertion____R19____R20 for 1
+

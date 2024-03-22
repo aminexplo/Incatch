@@ -1,0 +1,8 @@
+Inconsistencies found in scenario: min-paperProblem-easy-all-inc
+
+INCONSISTENT:
+Check min_paperProblem_easy_all_inc_Assertion____Assignment_RecordLimit_2____Senior_TypeLimit_1 for 1
+
+INCONSISTENT:
+Check min_paperProblem_easy_all_inc_Assertion____Assignment_RecordLimit_2____Junior_TypeLimit_2 for 1
+

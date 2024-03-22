@@ -1,0 +1,2 @@
+Inconsistency found in scenario: myConstraints
+PaperSimpleValue, Len1024 -> INCONSISTENT with <- Paper, Len3 w.r.t. data.

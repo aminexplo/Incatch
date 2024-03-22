@@ -1,0 +1,53 @@
+No inconsistencies found in scenario: min-rules-hard-no-inc
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R1____R2 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R3____R6 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R3____R8 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R3____R10 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R4____R5 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R4____R7 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R4____R9 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R5____R6 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R5____R8 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R5____R10 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R6____R7 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R6____R9 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R7____R8 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R7____R10 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R8____R9 for 1
+
+CONSISTENT:
+Check min_rules_hard_no_inc_Assertion____R9____R10 for 1
+

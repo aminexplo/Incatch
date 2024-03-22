@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="ConfigDsl" nsURI="zombie.incatch.configdsl" nsPrefix="cd">
+  <eClassifiers xsi:type="ecore:EClass" name="Config">
+    <eAnnotations source="gmf.diagram">
+      <details key="model.extension" value="cd"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="project" lowerBound="1"
+        eType="#//Project" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="simpleStringFields" lowerBound="1"
+        upperBound="-1" eType="#//SimpleStringField" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="dynamicListFields" upperBound="-1"
+        eType="#//DynamicListField" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Project">
+    <eAnnotations source="gmf.node">
+      <details key="color" value="63,63,63"/>
+      <details key="figure" value="ellipse"/>
+      <details key="label" value="Name"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="KeepClassification" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="SimpleStringField">
+    <eAnnotations source="gmf.node">
+      <details key="color" value="63,63,63"/>
+      <details key="figure" value="ellipse"/>
+      <details key="label" value="Name"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Size" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="IsRequired" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="DynamicListField">
+    <eAnnotations source="gmf.node">
+      <details key="color" value="63,63,63"/>
+      <details key="figure" value="ellipse"/>
+      <details key="label" value="Name"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="IsRequired" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="dynamicListItems" upperBound="-1"
+        eType="#//DynamicListItem" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="DynamicListItem">
+    <eAnnotations source="gmf.node">
+      <details key="color" value="63,63,63"/>
+      <details key="figure" value="ellipse"/>
+      <details key="label" value="Name"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+  </eClassifiers>
+</ecore:EPackage>

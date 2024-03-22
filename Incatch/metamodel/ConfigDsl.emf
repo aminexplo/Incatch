@@ -1,0 +1,35 @@
+@namespace(uri="zombie.incatch.configdsl", prefix="cd")
+package ConfigDsl;
+
+@gmf.diagram(model.extension="cd")
+class Config {
+	val Project[1] project;
+	val SimpleStringField[+] simpleStringFields;
+	val DynamicListField[*] dynamicListFields;
+}
+
+@gmf.node(color="63,63,63", figure="ellipse", label="Name")
+class Project {
+	id attr String Name;
+	attr boolean KeepClassification;
+}
+
+@gmf.node(color="63,63,63", figure="ellipse", label="Name")
+class SimpleStringField {
+	id attr String Name;
+	attr int Size;
+	attr boolean IsRequired;
+}
+
+@gmf.node(color="63,63,63", figure="ellipse", label="Name")
+class DynamicListField {
+	id attr String Name;
+	attr boolean IsRequired;
+	val DynamicListItem[*] dynamicListItems;
+}
+
+@gmf.node(color="63,63,63", figure="ellipse", label="Name")
+class DynamicListItem {
+	id attr String Name;
+}
+

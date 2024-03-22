@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated RuleTraceMetamodel -->
+      <package
+            uri="zombie.incatch.ruletracemetamodel"
+            class="RuleTraceMetamodel.RuleTraceMetamodelPackage"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated ConfigDsl -->
+      <package
+            uri="zombie.incatch.configdsl"
+            class="ConfigDsl.ConfigDslPackage"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated TraceMetamodelEli5 -->
+      <package
+            uri="zombie.incatch.tracemetamodeleli5"
+            class="TraceMetamodelEli5.TraceMetamodelEli5Package"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated ConstraintDsl -->
+      <package
+            uri="zombie.incatch.constraintdsl"
+            class="ConstraintDsl.ConstraintDslPackage"/>
+   </extension>
+
+</plugin>

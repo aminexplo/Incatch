@@ -1,0 +1,11 @@
+Inconsistencies found in scenario: three-rules-hard-one-inc
+
+INCONSISTENT:
+Check three_rules_hard_one_inc_Assertion____R2____R1 for 1
+
+INCONSISTENT:
+Check three_rules_hard_one_inc_Assertion____R2____R3 for 1
+
+CONSISTENT:
+Check three_rules_hard_one_inc_Assertion____R3____R1 for 1
+

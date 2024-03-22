@@ -1,0 +1,20 @@
+No inconsistencies found in scenario: five-rules-medium-no-inc
+
+CONSISTENT:
+Check five_rules_medium_no_inc_Assertion____R2____R1 for 1
+
+CONSISTENT:
+Check five_rules_medium_no_inc_Assertion____R2____R4 for 1
+
+CONSISTENT:
+Check five_rules_medium_no_inc_Assertion____R3____R1 for 1
+
+CONSISTENT:
+Check five_rules_medium_no_inc_Assertion____R3____R5 for 1
+
+CONSISTENT:
+Check five_rules_medium_no_inc_Assertion____R1____R5 for 1
+
+CONSISTENT:
+Check five_rules_medium_no_inc_Assertion____R4____R5 for 1
+

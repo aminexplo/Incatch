@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<gmfgraph:Canvas xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gmfgraph="http://www.eclipse.org/gmf/2006/GraphicalDefinition" name="ConstraintDsl">
+  <figures name="Default">
+    <descriptors name="RangeRuleFigure">
+      <actualFigure xsi:type="gmfgraph:Ellipse" name="RangeRuleFigure">
+        <backgroundColor xsi:type="gmfgraph:RGBColor" red="63" green="63" blue="63"/>
+        <border xsi:type="gmfgraph:MarginBorder">
+          <insets top="5" left="5" bottom="5" right="5"/>
+        </border>
+        <children xsi:type="gmfgraph:Label" name="RangeRuleLabelFigure" text="RangeRule"/>
+      </actualFigure>
+      <accessors accessor="getFigureRangeRuleLabelFigure" figure="//@figures.0/@descriptors.0/@actualFigure/@children.0"/>
+    </descriptors>
+  </figures>
+  <nodes name="RangeRule" figure="RangeRuleFigure"/>
+  <labels name="RangeRuleLabel" figure="RangeRuleFigure" accessor="//@figures.0/@descriptors.0/@accessors.0"/>
+</gmfgraph:Canvas>

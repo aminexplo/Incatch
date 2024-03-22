@@ -1,0 +1,32 @@
+Inconsistencies found in scenario: eight-rules-hard-some-inc
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R1____R5 for 1
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R2____R6 for 1
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R2____R7 for 1
+
+CONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R2____R8 for 1
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R3____R7 for 1
+
+CONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R3____R8 for 1
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R3____R6 for 1
+
+CONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R4____R8 for 1
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R4____R6 for 1
+
+INCONSISTENT:
+Check eight_rules_hard_some_inc_Assertion____R4____R7 for 1
+

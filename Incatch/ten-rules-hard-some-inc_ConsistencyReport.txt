@@ -1,0 +1,137 @@
+Inconsistencies found in scenario: ten-rules-hard-some-inc
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R3 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R1 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R4 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R5 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R2____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R1 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R5 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R3____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R4 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R5 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R1____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R4____R5 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R4____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R4____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R4____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R4____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R4____R10 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R5____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R5____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R5____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R5____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R5____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R6____R7 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R6____R8 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R6____R9 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R6____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R7____R8 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R7____R9 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R7____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R8____R9 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R8____R10 for 1
+
+CONSISTENT:
+Check ten_rules_hard_some_inc_Assertion____R9____R10 for 1
+

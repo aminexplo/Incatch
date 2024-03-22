@@ -1,0 +1,518 @@
+No inconsistencies found in scenario: max-rules-medium-some-inc
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R1____R2 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R6 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R8 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R10 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R12 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R14 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R3____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R25 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R27 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R29 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R31 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R33 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R35 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R4____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R6 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R8 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R10 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R12 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R14 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R5____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R27 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R29 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R31 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R33 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R35 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R6____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R8 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R10 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R12 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R14 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R7____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R8____R29 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R8____R31 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R8____R33 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R8____R35 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R8____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R8____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R10 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R12 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R14 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R9____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R10____R31 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R10____R33 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R10____R35 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R10____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R10____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R12 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R14 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R11____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R12____R33 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R12____R35 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R12____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R12____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R14 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R13____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R14____R35 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R14____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R14____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R16 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R15____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R16____R37 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R16____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R18 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R17____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R18____R39 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R20 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R19____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R22 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R21____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R24 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R23____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R26 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R25____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R28 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R27____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R29____R30 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R29____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R29____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R29____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R29____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R29____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R31____R32 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R31____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R31____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R31____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R31____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R33____R34 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R33____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R33____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R33____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R35____R36 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R35____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R35____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R37____R38 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R37____R40 for 1
+
+CONSISTENT:
+Check max_rules_medium_some_inc_Assertion____R39____R40 for 1
+

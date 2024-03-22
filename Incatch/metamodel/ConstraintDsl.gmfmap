@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ASCII"?>
+<gmfmap:Mapping
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:gmfmap="http://www.eclipse.org/gmf/2008/mappings"
+    xmlns:gmftool="http://www.eclipse.org/gmf/2005/ToolDefinition">
+  <nodes>
+    <containmentFeature
+        href="ConstraintDsl.ecore#//ConstraintCollection/rules"/>
+    <ownedChild>
+      <domainMetaElement
+          href="ConstraintDsl.ecore#//RangeRule"/>
+      <labelMappings
+          xsi:type="gmfmap:FeatureLabelMapping">
+        <diagramLabel
+            href="ConstraintDsl.gmfgraph#RangeRuleLabel"/>
+        <features
+            href="ConstraintDsl.ecore#//Rule/name"/>
+      </labelMappings>
+      <tool
+          xsi:type="gmftool:CreationTool"
+          href="ConstraintDsl.gmftool#//@palette/@tools.0/@tools.0"/>
+      <diagramNode
+          href="ConstraintDsl.gmfgraph#RangeRule"/>
+    </ownedChild>
+  </nodes>
+  <diagram>
+    <diagramCanvas
+        href="ConstraintDsl.gmfgraph#ConstraintDsl"/>
+    <domainModel
+        href="ConstraintDsl.ecore#/"/>
+    <domainMetaElement
+        href="ConstraintDsl.ecore#//ConstraintCollection"/>
+    <palette
+        href="ConstraintDsl.gmftool#//@palette"/>
+  </diagram>
+</gmfmap:Mapping>

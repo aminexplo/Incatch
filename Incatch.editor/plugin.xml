@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated RuleTraceMetamodel -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="RuleTraceMetamodel.presentation.RuleTraceMetamodelModelWizardID"
+            name="%_UI_RuleTraceMetamodelModelWizard_label"
+            class="RuleTraceMetamodel.presentation.RuleTraceMetamodelModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/RuleTraceMetamodelModelFile.gif">
+         <description>%_UI_RuleTraceMetamodelModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated RuleTraceMetamodel -->
+      <editor
+            id="RuleTraceMetamodel.presentation.RuleTraceMetamodelEditorID"
+            name="%_UI_RuleTraceMetamodelEditor_label"
+            icon="icons/full/obj16/RuleTraceMetamodelModelFile.gif"
+            extensions="ruletracemetamodel"
+            class="RuleTraceMetamodel.presentation.RuleTraceMetamodelEditor"
+            contributorClass="RuleTraceMetamodel.presentation.RuleTraceMetamodelActionBarContributor">
+      </editor>
+   </extension>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated ConfigDsl -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="ConfigDsl.presentation.ConfigDslModelWizardID"
+            name="%_UI_ConfigDslModelWizard_label"
+            class="ConfigDsl.presentation.ConfigDslModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/ConfigDslModelFile.gif">
+         <description>%_UI_ConfigDslModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated ConfigDsl -->
+      <editor
+            id="ConfigDsl.presentation.ConfigDslEditorID"
+            name="%_UI_ConfigDslEditor_label"
+            icon="icons/full/obj16/ConfigDslModelFile.gif"
+            extensions="configdsl"
+            class="ConfigDsl.presentation.ConfigDslEditor"
+            contributorClass="ConfigDsl.presentation.ConfigDslActionBarContributor">
+      </editor>
+   </extension>
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated TraceMetamodelEli5 -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="TraceMetamodelEli5.presentation.TraceMetamodelEli5ModelWizardID"
+            name="%_UI_TraceMetamodelEli5ModelWizard_label"
+            class="TraceMetamodelEli5.presentation.TraceMetamodelEli5ModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/TraceMetamodelEli5ModelFile.gif">
+         <description>%_UI_TraceMetamodelEli5ModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated TraceMetamodelEli5 -->
+      <editor
+            id="TraceMetamodelEli5.presentation.TraceMetamodelEli5EditorID"
+            name="%_UI_TraceMetamodelEli5Editor_label"
+            icon="icons/full/obj16/TraceMetamodelEli5ModelFile.gif"
+            extensions="tracemetamodeleli5"
+            class="TraceMetamodelEli5.presentation.TraceMetamodelEli5Editor"
+            contributorClass="TraceMetamodelEli5.presentation.TraceMetamodelEli5ActionBarContributor">
+      </editor>
+   </extension>
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated ConstraintDsl -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="ConstraintDsl.presentation.ConstraintDslModelWizardID"
+            name="%_UI_ConstraintDslModelWizard_label"
+            class="ConstraintDsl.presentation.ConstraintDslModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/ConstraintDslModelFile.gif">
+         <description>%_UI_ConstraintDslModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated ConstraintDsl -->
+      <editor
+            id="ConstraintDsl.presentation.ConstraintDslEditorID"
+            name="%_UI_ConstraintDslEditor_label"
+            icon="icons/full/obj16/ConstraintDslModelFile.gif"
+            extensions="constraintdsl"
+            class="ConstraintDsl.presentation.ConstraintDslEditor"
+            contributorClass="ConstraintDsl.presentation.ConstraintDslActionBarContributor">
+      </editor>
+   </extension>
+</plugin>

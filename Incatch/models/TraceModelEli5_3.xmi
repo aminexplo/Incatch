@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="LocoDs">
+  <rules name="PersonPhone_RecordLimit_2" artifact="PersonPhone" evalResult="true" relatedRules="Cell_TypeLimit_1 Home_TypeLimit_1" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="Cell_TypeLimit_1" artifact="PersonPhone" evalResult="true" relatedRules="PersonPhone_RecordLimit_2" ruleDef="IdIndex:0,Type:Cell,Limit:1" type="RecordLimit"/>
+  <rules name="Home_TypeLimit_1" artifact="PersonPhone" evalResult="true" relatedRules="PersonPhone_RecordLimit_2" ruleDef="IdIndex:0,Type:Home,Limit:1" type="RecordLimit"/>
+</tmelif:Scenario>

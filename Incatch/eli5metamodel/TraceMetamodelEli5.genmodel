@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" copyrightText="" modelDirectory="/Incatch/src" modelPluginID="Incatch"
+    modelName="TraceMetamodelEli5" importerID="org.eclipse.emf.importer.ecore" complianceLevel="6.0"
+    copyrightFields="false">
+  <foreignModel>TraceMetamodelEli5.ecore</foreignModel>
+  <genPackages prefix="TraceMetamodelEli5" disposableProviderFactory="true" ecorePackage="TraceMetamodelEli5.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="TraceMetamodelEli5.ecore#//RuleType">
+      <genEnumLiterals ecoreEnumLiteral="TraceMetamodelEli5.ecore#//RuleType/Range"/>
+      <genEnumLiterals ecoreEnumLiteral="TraceMetamodelEli5.ecore#//RuleType/Required"/>
+      <genEnumLiterals ecoreEnumLiteral="TraceMetamodelEli5.ecore#//RuleType/RecordLimit"/>
+      <genEnumLiterals ecoreEnumLiteral="TraceMetamodelEli5.ecore#//RuleType/Unknown"/>
+    </genEnums>
+    <genClasses ecoreClass="TraceMetamodelEli5.ecore#//Scenario">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute TraceMetamodelEli5.ecore#//Scenario/name"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference TraceMetamodelEli5.ecore#//Scenario/rules"/>
+    </genClasses>
+    <genClasses ecoreClass="TraceMetamodelEli5.ecore#//Rule">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute TraceMetamodelEli5.ecore#//Rule/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute TraceMetamodelEli5.ecore#//Rule/artifact"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute TraceMetamodelEli5.ecore#//Rule/evalResult"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference TraceMetamodelEli5.ecore#//Rule/relatedRules"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute TraceMetamodelEli5.ecore#//Rule/ruleDef"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute TraceMetamodelEli5.ecore#//Rule/type"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

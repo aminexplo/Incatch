@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ASCII"?>
+<gmfgraph:Canvas xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gmfgraph="http://www.eclipse.org/gmf/2006/GraphicalDefinition" name="ConfigDsl">
+  <figures name="Default">
+    <descriptors name="ProjectFigure">
+      <actualFigure xsi:type="gmfgraph:Ellipse" name="ProjectFigure">
+        <backgroundColor xsi:type="gmfgraph:RGBColor" red="63" green="63" blue="63"/>
+        <border xsi:type="gmfgraph:MarginBorder">
+          <insets top="5" left="5" bottom="5" right="5"/>
+        </border>
+        <children xsi:type="gmfgraph:Label" name="ProjectLabelFigure" text="Project"/>
+      </actualFigure>
+      <accessors accessor="getFigureProjectLabelFigure" figure="//@figures.0/@descriptors.0/@actualFigure/@children.0"/>
+    </descriptors>
+    <descriptors name="SimpleStringFieldFigure">
+      <actualFigure xsi:type="gmfgraph:Ellipse" name="SimpleStringFieldFigure">
+        <backgroundColor xsi:type="gmfgraph:RGBColor" red="63" green="63" blue="63"/>
+        <border xsi:type="gmfgraph:MarginBorder">
+          <insets top="5" left="5" bottom="5" right="5"/>
+        </border>
+        <children xsi:type="gmfgraph:Label" name="SimpleStringFieldLabelFigure" text="SimpleStringField"/>
+      </actualFigure>
+      <accessors accessor="getFigureSimpleStringFieldLabelFigure" figure="//@figures.0/@descriptors.1/@actualFigure/@children.0"/>
+    </descriptors>
+    <descriptors name="DynamicListFieldFigure">
+      <actualFigure xsi:type="gmfgraph:Ellipse" name="DynamicListFieldFigure">
+        <backgroundColor xsi:type="gmfgraph:RGBColor" red="63" green="63" blue="63"/>
+        <border xsi:type="gmfgraph:MarginBorder">
+          <insets top="5" left="5" bottom="5" right="5"/>
+        </border>
+        <children xsi:type="gmfgraph:Label" name="DynamicListFieldLabelFigure" text="DynamicListField"/>
+      </actualFigure>
+      <accessors accessor="getFigureDynamicListFieldLabelFigure" figure="//@figures.0/@descriptors.2/@actualFigure/@children.0"/>
+    </descriptors>
+    <descriptors name="DynamicListItemFigure">
+      <actualFigure xsi:type="gmfgraph:Ellipse" name="DynamicListItemFigure">
+        <backgroundColor xsi:type="gmfgraph:RGBColor" red="63" green="63" blue="63"/>
+        <border xsi:type="gmfgraph:MarginBorder">
+          <insets top="5" left="5" bottom="5" right="5"/>
+        </border>
+        <children xsi:type="gmfgraph:Label" name="DynamicListItemLabelFigure" text="DynamicListItem"/>
+      </actualFigure>
+      <accessors accessor="getFigureDynamicListItemLabelFigure" figure="//@figures.0/@descriptors.3/@actualFigure/@children.0"/>
+    </descriptors>
+  </figures>
+  <nodes name="Project" figure="ProjectFigure"/>
+  <nodes name="SimpleStringField" figure="SimpleStringFieldFigure"/>
+  <nodes name="DynamicListField" figure="DynamicListFieldFigure"/>
+  <nodes name="DynamicListItem" figure="DynamicListItemFigure"/>
+  <labels name="ProjectLabel" figure="ProjectFigure" accessor="//@figures.0/@descriptors.0/@accessors.0"/>
+  <labels name="SimpleStringFieldLabel" figure="SimpleStringFieldFigure" accessor="//@figures.0/@descriptors.1/@accessors.0"/>
+  <labels name="DynamicListFieldLabel" figure="DynamicListFieldFigure" accessor="//@figures.0/@descriptors.2/@accessors.0"/>
+  <labels name="DynamicListItemLabel" figure="DynamicListItemFigure" accessor="//@figures.0/@descriptors.3/@accessors.0"/>
+</gmfgraph:Canvas>

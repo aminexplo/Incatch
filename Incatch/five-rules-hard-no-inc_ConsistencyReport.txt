@@ -1,0 +1,32 @@
+No inconsistencies found in scenario: five-rules-hard-no-inc
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R2____R3 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R2____R1 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R2____R4 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R2____R5 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R3____R1 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R3____R5 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R1____R4 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R1____R5 for 1
+
+CONSISTENT:
+Check five_rules_hard_no_inc_Assertion____R4____R5 for 1
+

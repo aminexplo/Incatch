@@ -1,0 +1,7 @@
+# Tracing options for the Incatch.diagram plug-in
+
+# Common issues
+Incatch.diagram/debug=false
+
+# Visual IDs
+Incatch.diagram/debug/visualID=false

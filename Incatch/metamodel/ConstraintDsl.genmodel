@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/Incatch/src" modelPluginID="Incatch" modelName="ConstraintDsl"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="6.0" copyrightFields="false">
+  <foreignModel>ConstraintDsl.ecore</foreignModel>
+  <genPackages prefix="ConstraintDsl" disposableProviderFactory="true" ecorePackage="ConstraintDsl.ecore#/">
+    <genClasses ecoreClass="ConstraintDsl.ecore#//ConstraintCollection">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//ConstraintCollection/name"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ConstraintDsl.ecore#//ConstraintCollection/rules"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="ConstraintDsl.ecore#//Rule">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//Rule/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//Rule/artifact"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference ConstraintDsl.ecore#//Rule/relatedRule"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//Rule/attribute"/>
+    </genClasses>
+    <genClasses ecoreClass="ConstraintDsl.ecore#//RangeRule">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//RangeRule/low"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//RangeRule/high"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//RangeRule/equalLow"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConstraintDsl.ecore#//RangeRule/equalHigh"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="Incatch">
+	<property environment="env" />
+	<property name="ECLIPSE_HOME" value="../../eclipse/" />
+	<property name="debuglevel" value="source,lines,vars" />
+	<property name="target" value="11" />
+	<property name="source" value="11" />
+	<property name="input.data.size" value="s" />
+	<property name="input.model.path" value="rulesPackForEval/min-paperProblem-easy-all-inc.xmi" />	
+	<!--
+	<property name="input.model.path" value="rulesPackForEval/med-rules-easy-all-inc.xmi" />     1
+<property name="input.model.path" value="rulesPackForEval/med-rules-easy-no-inc.xmi" />          2
+<property name="input.model.path" value="rulesPackForEval/med-rules-easy-one-inc.xmi" />		    3	
+<property name="input.model.path" value="rulesPackForEval/med-rules-easy-some-inc.xmi" />		4
+<property name="input.model.path" value="rulesPackForEval/med-rules-hard-all-inc.xmi" />			5
+<property name="input.model.path" value="rulesPackForEval/med-rules-hard-no-inc.xmi" />			6
+<property name="input.model.path" value="rulesPackForEval/med-rules-hard-one-inc.xmi" />			7
+<property name="input.model.path" value="rulesPackForEval/med-rules-hard-some-inc.xmi" />		8
+<property name="input.model.path" value="rulesPackForEval/med-rules-medium-all-inc.xmi" />		9
+<property name="input.model.path" value="rulesPackForEval/med-rules-medium-no-inc.xmi" />		10
+<property name="input.model.path" value="rulesPackForEval/med-rules-medium-one-inc.xmi" />		11
+<property name="input.model.path" value="rulesPackForEval/med-rules-medium-some-inc.xmi" />		12
+<property name="input.model.path" value="rulesPackForEval/max-rules-easy-all-inc.xmi" />		13
+<property name="input.model.path" value="rulesPackForEval/max-rules-easy-no-inc.xmi" />			14
+<property name="input.model.path" value="rulesPackForEval/max-rules-easy-one-inc.xmi" />		15
+<property name="input.model.path" value="rulesPackForEval/max-rules-easy-some-inc.xmi" />		16
+<property name="input.model.path" value="rulesPackForEval/max-rules-hard-all-inc.xmi" />		17
+<property name="input.model.path" value="rulesPackForEval/max-rules-hard-no-inc.xmi" />			18
+<property name="input.model.path" value="rulesPackForEval/max-rules-hard-one-inc.xmi" />		19
+<property name="input.model.path" value="rulesPackForEval/max-rules-hard-some-inc.xmi" />		20
+<property name="input.model.path" value="rulesPackForEval/max-rules-medium-all-inc.xmi" />		21
+<property name="input.model.path" value="rulesPackForEval/max-rules-medium-no-inc.xmi" />		22
+<property name="input.model.path" value="rulesPackForEval/max-rules-medium-one-inc.xmi" />		23
+<property name="input.model.path" value="rulesPackForEval/max-rules-medium-some-inc.xmi" />		24
+<property name="input.model.path" value="rulesPackForEval/min-rules-easy-all-inc.xmi" />			25
+<property name="input.model.path" value="rulesPackForEval/min-rules-easy-no-inc.xmi" />			26
+<property name="input.model.path" value="rulesPackForEval/min-rules-easy-one-inc.xmi" />			27
+<property name="input.model.path" value="rulesPackForEval/min-rules-easy-some-inc.xmi" />			28
+<property name="input.model.path" value="rulesPackForEval/min-rules-hard-all-inc.xmi" />			29
+<property name="input.model.path" value="rulesPackForEval/min-rules-hard-no-inc.xmi" />			30
+<property name="input.model.path" value="rulesPackForEval/min-rules-hard-one-inc.xmi" />			31
+<property name="input.model.path" value="rulesPackForEval/min-rules-hard-some-inc.xmi" />			32
+<property name="input.model.path" value="rulesPackForEval/min-rules-medium-all-inc.xmi" />		33
+<property name="input.model.path" value="rulesPackForEval/min-rules-medium-no-inc.xmi" />			34
+<property name="input.model.path" value="rulesPackForEval/min-rules-medium-one-inc.xmi" />		35
+<property name="input.model.path" value="rulesPackForEval/min-rules-medium-some-inc.xmi" />		36
+	-->
+	<path id="Plug-in Dependencies.libraryclasspath">
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.emf.ecore_2.25.0.v20210816-0937.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.emf.common_2.23.0.v20210924-1718.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.core.runtime_3.24.0.v20210910-0750.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.osgi_3.17.100.v20211104-1730.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.osgi.compatibility.state_1.2.500.v20210730-0750.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.equinox.common_3.15.100.v20211021-1418.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.core.jobs_3.12.0.v20210723-1034.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.equinox.preferences_3.9.100.v20211021-1418.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.core.contenttype_3.8.100.v20210910-0640.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.equinox.app_1.6.100.v20211021-1418.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.ocl.ecore_3.17.0.v20211130-1448.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.ocl_3.17.0.v20211130-1448.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.emf.ecore.xmi_2.16.0.v20190528-0725.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/lpg.runtime.java_2.0.17.v201004271640.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.ocl.common_1.17.0.v20211130-1448.jar" />
+		<pathelement location="../../../../../Users/zaher/.p2/pool/plugins/org.eclipse.epsilon.emc.emf_2.4.0.202203041826" />
+		<pathelement location="org.alloytools.alloy.dist.jar" />
+	</path>
+	<path id="Incatch.classpath">
+		<path refid="Plug-in Dependencies.libraryclasspath" />
+		<pathelement location="bin" />
+	</path>
+	<path id="run.preparation.classpath">
+		<path refid="Plug-in Dependencies.libraryclasspath" />
+		<path refid="Incatch.classpath" />
+	</path>
+	<path id="run.analysis.classpath">
+		<path refid="Plug-in Dependencies.libraryclasspath" />
+		<path refid="Incatch.classpath" />
+	</path>
+	<target name="init">
+		<mkdir dir="bin" />
+		<copy includeemptydirs="false" todir="bin">
+			<fileset dir="src">
+				<exclude name="**/*.launch" />
+				<exclude name="**/*.xtend" />
+				<exclude name="**/*.java" />
+			</fileset>
+		</copy>
+	</target>
+	<target name="clean">
+		<delete dir="bin" />
+	</target>
+	<target depends="clean" name="cleanall" />
+	<!-- depends="build-subprojects,build-project,preparation,xmi2als,analysis" -->
+	<target depends="build-subprojects,build-project,preparation,xmi2als,analysis" name="build" />
+	<target name="build-subprojects" />
+	<target depends="init" name="build-project">
+		<echo message="${ant.project.name}: ${ant.file}" />
+		<javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+			<src path="src" />
+			<classpath refid="Incatch.classpath" />
+		</javac>
+	</target>
+	<target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects" />
+	<target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+		<copy todir="${ant.library.dir}">
+			<fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar" />
+		</copy>
+		<unzip dest="${ant.library.dir}">
+			<patternset includes="jdtCompilerAdapter.jar" />
+			<fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar" />
+		</unzip>
+	</target>
+	<target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+		<property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter" />
+		<antcall target="build" />
+	</target>
+
+
+
+	<target name="preparation">
+		<java classname="TraceMetamodelEli5.PreparationContainer" failonerror="true" fork="yes">
+			<classpath refid="run.preparation.classpath" />
+			<arg value="${input.model.path}" />
+			<arg value="${input.data.size}" />
+		</java>
+	</target>
+
+	
+	<target name="xmi2als">
+		<epsilon.emf.loadModel name="traceModelInput" modelFile="${input.model.path}" metamodelUri="zombie.incatch.tracemetamodeleli5" read="true" store="false" />
+
+		<epsilon.egl src="eli5transformation/eli5translate.egx">
+			<model ref="traceModelInput" as="M" />
+		</epsilon.egl>
+	</target>
+	
+
+	<target name="analysis">
+		<java classname="TraceMetamodelEli5.AnalysisContainer" failonerror="true" fork="yes">
+			<classpath refid="run.analysis.classpath" />
+			<arg value="${input.model.path}" />
+			<arg value="${input.data.size}" />
+		</java>
+	</target>
+
+</project>

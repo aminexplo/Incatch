@@ -1,0 +1,152 @@
+Inconsistencies found in scenario: sixteen-rules-hard-some-inc
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R1____R9 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R2____R16 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R3____R16 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R4____R16 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R5____R16 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R6____R16 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R7____R16 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R10 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R11 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R12 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R13 for 1
+
+INCONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R14 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R15 for 1
+
+CONSISTENT:
+Check sixteen_rules_hard_some_inc_Assertion____R8____R16 for 1
+

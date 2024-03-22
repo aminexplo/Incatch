@@ -1,0 +1,47 @@
+Inconsistencies found in scenario: ten-rules-medium-some-inc
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R2____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R2____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R2____R10 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R3____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R3____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R3____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R1____R6 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R1____R7 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R1____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R4____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R4____R8 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R4____R10 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R5____R10 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R5____R9 for 1
+
+INCONSISTENT:
+Check ten_rules_medium_some_inc_Assertion____R5____R6 for 1
+

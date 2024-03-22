@@ -1,0 +1,23 @@
+@namespace(uri="zombie.incatch.constraintdsl", prefix="cnt")
+package ConstraintDsl;
+
+@gmf.diagram(model.extension="cnt")
+class ConstraintCollection {
+	id attr String name = "";
+	val Rule[2..*] rules;
+}
+
+@gmf.node(color="63,63,63", figure="ellipse", label="name")
+abstract class Rule {
+	id attr String name;
+	attr String artifact;
+	ref Rule[1] relatedRule;
+}
+
+class RangeRule extends Rule {
+	attr double low;
+	attr double high;
+	attr boolean equalLow;
+	attr boolean equalHigh;
+}
+

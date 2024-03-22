@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="twelve-rules-hard-one-inc">
+  <rules name="R1" artifact="PersonPhone" evalResult="true" relatedRules="R7" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R2" artifact="PersonPhone" evalResult="true" relatedRules="R8 R9 R10 R11 R12" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R3" artifact="PersonPhone" evalResult="true" relatedRules="R9 R10 R11 R8 R12" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R4" artifact="PersonPhone" evalResult="true" relatedRules="R10 R11 R12 R8 R9" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R5" artifact="PersonPhone" evalResult="true" relatedRules="R11 R12 R8 R9 R10" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R6" artifact="PersonPhone" evalResult="true" relatedRules="R12 R11 R9 R8 R10" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R7" artifact="PersonPhone" relatedRules="R1" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R8" artifact="PersonPhone" evalResult="true" relatedRules="R2 R6 R3 R4 R5" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R9" artifact="PersonPhone" evalResult="true" relatedRules="R3 R2 R6 R4 R5" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R10" artifact="PersonPhone" evalResult="true" relatedRules="R4 R3 R2 R5 R6" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R11" artifact="PersonPhone" evalResult="true" relatedRules="R5 R4 R3 R2 R6" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R12" artifact="PersonPhone" evalResult="true" relatedRules="R6 R5 R4 R2 R3" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+</tmelif:Scenario>

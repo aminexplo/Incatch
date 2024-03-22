@@ -1,0 +1,23 @@
+Inconsistencies found in scenario: eight-rules-medium-all-inc
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R1____R5 for 1
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R2____R6 for 1
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R2____R7 for 1
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R3____R7 for 1
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R3____R8 for 1
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R4____R8 for 1
+
+INCONSISTENT:
+Check eight_rules_medium_all_inc_Assertion____R4____R6 for 1
+

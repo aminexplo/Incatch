@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" copyrightText="" modelDirectory="/Incatch/src" modelPluginID="Incatch"
+    modelName="ConfigDsl" importerID="org.eclipse.emf.importer.ecore" complianceLevel="6.0"
+    copyrightFields="false">
+  <foreignModel>ConfigDsl.emf</foreignModel>
+  <genPackages prefix="ConfigDsl" disposableProviderFactory="true" ecorePackage="ConfigDsl.ecore#/">
+    <genClasses ecoreClass="ConfigDsl.ecore#//Config">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ConfigDsl.ecore#//Config/project"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ConfigDsl.ecore#//Config/simpleStringFields"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ConfigDsl.ecore#//Config/dynamicListFields"/>
+    </genClasses>
+    <genClasses ecoreClass="ConfigDsl.ecore#//Project">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//Project/Name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//Project/KeepClassification"/>
+    </genClasses>
+    <genClasses ecoreClass="ConfigDsl.ecore#//SimpleStringField">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//SimpleStringField/Name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//SimpleStringField/Size"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//SimpleStringField/IsRequired"/>
+    </genClasses>
+    <genClasses ecoreClass="ConfigDsl.ecore#//DynamicListField">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//DynamicListField/Name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//DynamicListField/IsRequired"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ConfigDsl.ecore#//DynamicListField/dynamicListItems"/>
+    </genClasses>
+    <genClasses ecoreClass="ConfigDsl.ecore#//DynamicListItem">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ConfigDsl.ecore#//DynamicListItem/Name"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

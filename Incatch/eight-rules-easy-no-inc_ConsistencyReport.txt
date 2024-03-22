@@ -1,0 +1,14 @@
+No inconsistencies found in scenario: eight-rules-easy-no-inc
+
+CONSISTENT:
+Check eight_rules_easy_no_inc_Assertion____R1____R5 for 1
+
+CONSISTENT:
+Check eight_rules_easy_no_inc_Assertion____R2____R6 for 1
+
+CONSISTENT:
+Check eight_rules_easy_no_inc_Assertion____R3____R7 for 1
+
+CONSISTENT:
+Check eight_rules_easy_no_inc_Assertion____R4____R8 for 1
+

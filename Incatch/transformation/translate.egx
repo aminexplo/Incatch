@@ -1,0 +1,5 @@
+rule Model2Alloy
+	transform self : M!Scenario {
+	template : "translate.egl"
+	target : "../models/" + self.Name + ".als"
+}

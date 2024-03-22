@@ -1,0 +1,11 @@
+No inconsistencies found in scenario: three-rules-hard-no-inc
+
+CONSISTENT:
+Check three_rules_hard_no_inc_Assertion____R2____R1 for 1
+
+CONSISTENT:
+Check three_rules_hard_no_inc_Assertion____R2____R3 for 1
+
+CONSISTENT:
+Check three_rules_hard_no_inc_Assertion____R3____R1 for 1
+

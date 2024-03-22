@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cnt:ConstraintCollection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cnt="zombie.incatch.constraintdsl" name="myConstraints">
+  <rules xsi:type="cnt:RangeRule" name="Len1024" artifact="PaperSimpleValue" relatedRule="Len3" attribute="Value" high="1024.0" equalHigh="true"/>
+  <rules xsi:type="cnt:RangeRule" name="Len3" artifact="Paper" relatedRule="Len1024" attribute="MadeIn" high="3.0" equalHigh="true"/>
+</cnt:ConstraintCollection>

@@ -1,0 +1,26 @@
+@namespace(uri="zombie.incatch.tracemetamodeleli5", prefix="tmelif")
+package TraceMetamodelEli5;
+
+@gmf.diagram(model.extension="tmelif")
+class Scenario {
+	id attr String name;
+	val Rule[2..*] rules;
+}
+
+@gmf.node(color="63,63,63", figure="ellipse", label="name")
+class Rule {
+	id attr String name;
+	attr String artifact;
+	attr boolean evalResult;
+	ref Rule[+] relatedRules;
+	attr String ruleDef;
+	attr RuleType type = "Unknown";
+}
+
+enum RuleType {
+	Range = 1;
+	Required = 2;
+	RecordLimit = 3;
+	Unknown = 0;
+}
+

@@ -1,0 +1,39 @@
+@namespace(uri="zombie.incatch.ruletracemetamodel", prefix="rtm")
+package RuleTraceMetamodel;
+
+class Clabject {
+	ref Clabject[+] relatedClabjects;
+	val Feature[+] features;
+	id attr String Name;
+}
+
+abstract class Feature {
+	id attr String Name;
+	attr String Value;
+}
+
+class ConstrainedFeature extends Feature {
+	val Rule[+] rules;
+	attr boolean InterpretationResult;
+}
+
+class ConstraintControllerFeature extends Feature {
+}
+
+class Rule {
+	attr RuleType Type = "Custom";
+	attr String InterpreterUrl;
+	attr String Content;
+	id attr String Name;
+}
+
+enum RuleType {
+	Custom = 0;
+	OCL = 1;
+}
+
+class Scenario {
+	id attr String Name;
+	val Clabject[2..*] clabjects;
+}
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="ten-rules-easy-one-inc">
+  <rules name="R2" artifact="PersonPhone" relatedRules="R7" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R3" artifact="PersonPhone" evalResult="true" relatedRules="R8" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R1" artifact="PersonPhone" evalResult="true" relatedRules="R6" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R4" artifact="PersonPhone" evalResult="true" relatedRules="R9" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R5" artifact="PersonPhone" evalResult="true" relatedRules="R10" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R6" artifact="PersonPhone" evalResult="true" relatedRules="R1" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R7" artifact="PersonPhone" evalResult="true" relatedRules="R2" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R8" artifact="PersonPhone" evalResult="true" relatedRules="R3" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R9" artifact="PersonPhone" evalResult="true" relatedRules="R4" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R10" artifact="PersonPhone" evalResult="true" relatedRules="R5" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+</tmelif:Scenario>

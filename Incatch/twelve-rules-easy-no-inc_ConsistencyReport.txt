@@ -1,0 +1,20 @@
+No inconsistencies found in scenario: twelve-rules-easy-no-inc
+
+CONSISTENT:
+Check twelve_rules_easy_no_inc_Assertion____R1____R7 for 1
+
+CONSISTENT:
+Check twelve_rules_easy_no_inc_Assertion____R2____R8 for 1
+
+CONSISTENT:
+Check twelve_rules_easy_no_inc_Assertion____R3____R9 for 1
+
+CONSISTENT:
+Check twelve_rules_easy_no_inc_Assertion____R4____R10 for 1
+
+CONSISTENT:
+Check twelve_rules_easy_no_inc_Assertion____R5____R11 for 1
+
+CONSISTENT:
+Check twelve_rules_easy_no_inc_Assertion____R6____R12 for 1
+

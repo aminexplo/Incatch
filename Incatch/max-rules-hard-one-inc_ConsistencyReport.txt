@@ -1,0 +1,1088 @@
+No inconsistencies found in scenario: max-rules-hard-one-inc
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R1____R2 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R6 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R8 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R10 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R12 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R14 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R3____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R5 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R7 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R9 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R11 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R13 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R15 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R4____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R6 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R8 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R10 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R12 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R14 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R5____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R7 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R9 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R11 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R13 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R15 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R6____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R8 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R10 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R12 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R14 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R7____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R9 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R11 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R13 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R15 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R8____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R10 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R12 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R14 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R9____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R11 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R13 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R15 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R10____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R12 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R14 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R11____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R13 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R15 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R12____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R14 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R13____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R15 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R14____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R16 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R15____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R17 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R16____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R18 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R17____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R19 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R18____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R20 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R19____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R21 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R20____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R22 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R21____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R23 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R22____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R24 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R23____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R25 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R24____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R26 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R25____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R27 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R26____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R28 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R27____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R28____R29 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R28____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R28____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R28____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R28____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R28____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R29____R30 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R29____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R29____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R29____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R29____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R29____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R30____R31 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R30____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R30____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R30____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R30____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R31____R32 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R31____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R31____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R31____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R31____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R32____R33 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R32____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R32____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R32____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R33____R34 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R33____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R33____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R33____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R34____R35 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R34____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R34____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R35____R36 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R35____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R35____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R36____R37 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R36____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R37____R38 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R37____R40 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R38____R39 for 1
+
+CONSISTENT:
+Check max_rules_hard_one_inc_Assertion____R39____R40 for 1
+

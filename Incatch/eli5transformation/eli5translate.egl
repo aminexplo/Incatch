@@ -1,0 +1,63 @@
+open Consistency
+[% for (name in self.filterRules().collect(r|r.artifact).asSet()) { %]
+one sig [%=name%] extends Artifact {}
+[% } %]
+
+[% for (rule in self.filterRules()) { %]
+one sig [%=rule.name%] extends Rule {}
+[% } %]
+
+one sig [%=self.name.replace("-", "_")%] extends Scenario {
+} {
+	artifacts = [%=self.filterRules().collect(r|r.artifact).joinString(" + ")%]
+	rules = [%=self.filterRules().collect(r|r.name).joinString(" + ")%]
+	givenRM = [% for (rule in self.filterRules()) { %]
+[%=rule.relatedRules.collect(r|"("+rule.name + " -> " + r.name+")").joinString(" + ")%][%if (rule != self.filterRules().last()) {%] + [%}%]
+[% } %] 
+	givenTranslation = [%=self.filterRules().collect(r|"("+r.name + " -> " + r.name+")").joinString(" + ")%]
+	givenRE = [% for (rule in self.filterRules()) { %]
+[%=rule.relatedRules.collect(r|"("+rule.name + " -> " + r.name+")").joinString(" + ")%][%if (rule != self.filterRules().last()) {%] + [%}%]
+[% } %] 
+	givenE =  [%=self.filterRules().select(r|r.evalResult).size() > 0 ? self.filterRules().collect(r|r.evalResult ? "("+r.artifact + " -> " + r.name+")" : "" ).joinString(" + ") : "none -> none"%]
+}
+
+[% var combination : String = ""; for (rule in self.filterRules()) { %]
+[% for (related in rule.relatedRules) { %]
+[% if(combination.contains(rule.name+related.name) or combination.contains(related.name+rule.name)) {%]
+[% continue; } else { combination = combination + rule.name + related.name + "-";%]
+assert [%=self.name.replace("-", "_")%]_Assertion____[%=rule.name%]____[%=related.name%] {
+	Consistency_r[[%=self.name.replace("-", "_")%], [%=rule.artifact + ", " + related.artifact%], [%=rule.name + ", " + related.name%]]
+}
+check [%=self.name.replace("-", "_")%]_Assertion____[%=rule.name%]____[%=related.name%] for 1
+
+[%}%]
+[%}%]
+[%}%]
+
+[%
+operation Sequence<String> joinString(separator : String) : String {
+	var result : String = "";
+	var prunedSelf : Set<String> = self.select(s|s!=null and s.trim()!="").asSet();
+	var len : Integer = prunedSelf.size();
+	
+	if(len <= 0)
+		return "";
+		
+	if(len == 1)
+		return prunedSelf[0];
+	
+	var index : Integer = 1;
+	for (str in prunedSelf) {
+		if(index < len)
+			str = str + separator;
+		result = result + str;
+		index++;
+	}
+	
+	return result;
+} 
+
+operation M!Scenario filterRules() : Sequence<M!Rule> {
+	return self.rules.select(r|r.relatedRules != null and r.relatedRules.size()>0).asSequence();
+}
+%]

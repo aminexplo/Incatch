@@ -1,0 +1,80 @@
+Inconsistencies found in scenario: twelve-rules-hard-all-inc
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R1____R7 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R2____R8 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R2____R9 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R2____R10 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R2____R11 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R2____R12 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R3____R9 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R3____R10 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R3____R11 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R3____R8 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R3____R12 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R4____R10 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R4____R11 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R4____R12 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R4____R8 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R4____R9 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R5____R11 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R5____R12 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R5____R8 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R5____R9 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R5____R10 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R6____R12 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R6____R11 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R6____R9 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R6____R8 for 1
+
+INCONSISTENT:
+Check twelve_rules_hard_all_inc_Assertion____R6____R10 for 1
+

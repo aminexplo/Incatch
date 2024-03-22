@@ -1,0 +1,46 @@
+open Consistency
+[% for (clabject in self.clabjects) { %]
+one sig [%=clabject.Name%] extends Artifact {}
+[% } %]
+
+[% for (featureSet in self.clabjects.features) { %]
+	[% for (constrainedFeature in featureSet.selectByType(M!ConstrainedFeature)) { %]
+		[% for (rule in constrainedFeature.rules) { %]
+one sig [%=rule.Name%] extends Rule {}
+		[% } %]
+	[% } %]
+[% } %]
+
+one sig [%=self.Name%] extends Scenario {
+} {
+	artifacts = [%=self.clabjects.collect(a|a.Name).joinString(" + ")%]
+	rules = [%=self.clabjects.features.type()%]Len1024 + Len32 + Len32_Translated + Len3 + Len3_Translated
+	givenRM = (Len1024 -> Len32) + (Len1024 -> Len3)
+	givenTranslation = (Len32 -> Len32_Translated) + (Len3 -> Len3_Translated)  + (Len1024 -> Len1024)
+	givenRE = (Len32_Translated -> Len1024) + (Len3_Translated -> Len1024)
+	givenE = (PaperSimpleValue_Canada -> Len1024) + (PaperSimpleValue_CAN -> Len1024)
+		    + (Paper_Canada -> Len32) + (Paper_CAN -> Len32) + (Paper_CAN -> Len3)
+//		    + (Paper_Canada -> Len3)
+}
+
+[%
+operation Sequence<String> joinString(separator : String) : String {
+	var result : String = "";
+	var len : Integer = self.size();
+	
+	if(len <= 0)
+		return "";
+	
+	var index : Integer = 1;
+	for (str in self) {
+		if(index < len)
+			str = str + separator;
+		result = result + str;
+		index++;
+	}
+	
+	return result;
+}
+
+//operation Sequence<M!Element> getRules() : Sequence<M!Rule> 
+%]

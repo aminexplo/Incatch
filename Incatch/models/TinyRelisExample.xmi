@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rtm:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rtm="zombie.incatch.ruletracemetamodel" Name="TinyRelisExample">
+  <clabjects relatedClabjects="Config" Name="PaperSimpleValue">
+    <features xsi:type="rtm:ConstrainedFeature" Name="DbVal" Value="Canada">
+      <rules Content="LEN(DbVal) &lt;= 1024" Name="Len1024"/>
+    </features>
+  </clabjects>
+  <clabjects relatedClabjects="PaperSimpleValue Paper" Name="Config">
+    <features xsi:type="rtm:ConstraintControllerFeature" Name="MadeInSize" Value="32"/>
+  </clabjects>
+  <clabjects relatedClabjects="Config" Name="Paper">
+    <features xsi:type="rtm:ConstrainedFeature" Name="MadeIn" Value="Canada">
+      <rules Content="MadeIn.length &lt;= 32" Name="Len32"/>
+    </features>
+  </clabjects>
+</rtm:Scenario>

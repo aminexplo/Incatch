@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="RelisDm">
+  <rules name="relis_new_2_LC2021_RecordLimit_8" artifact="relis_new_2_LC2021" evalResult="true" relatedRules="ref_exclusioncrieria_TypeLimit_8_LC2021" ruleDef="IdIndex:0,Entity:relis_new_2_LC2021,Limit:8" type="RecordLimit"/>
+  <rules name="relis_new_2_extremo_RecordLimit_7" artifact="relis_new_2_extremo" relatedRules="ref_exclusioncrieria_TypeLimit_7" ruleDef="IdIndex:0,Entity:relis_new_2_extremo,Limit:7" type="RecordLimit"/>
+  <rules name="relis_new_2_mobileapps_6252_RecordLimit_2" artifact="relis_new_2_mobileapps_6252" relatedRules="ref_exclusioncrieria_TypeLimit_2" ruleDef="IdIndex:0,Entity:relis_new_2_mobileapps_6252,Limit:2" type="RecordLimit"/>
+  <rules name="relis_new_2_smsUpdateCollabMDE_RecordLimit_8" artifact="relis_new_2_smsUpdateCollabMDE" evalResult="true" relatedRules="ref_exclusioncrieria_TypeLimit_8_LC2021" ruleDef="IdIndex:0,Entity:relis_new_2_smsUpdateCollabMDE,Limit:8" type="RecordLimit"/>
+  <rules name="relis_new_2_rl4se_RecordLimit_5" artifact="relis_new_2_rl4se" evalResult="true" relatedRules="ref_exclusioncrieria_TypeLimit_5" ruleDef="IdIndex:0,Entity:relis_new_2_rl4se,Limit:5" type="RecordLimit"/>
+  <rules name="relis_new_2_cps_RecordLimit_1" artifact="relis_new_2_cps" relatedRules="ref_exclusioncrieria_TypeLimit_1" ruleDef="IdIndex:0,Entity:relis_new_2_cps,Limit:1" type="RecordLimit"/>
+  <rules name="relis_new_2_da_sdf_RecordLimit_3" artifact="relis_new_2_da_sdf" relatedRules="ref_exclusioncrieria_TypeLimit_3" ruleDef="IdIndex:0,Entity:relis_new_2_da_sdf,Limit:3" type="RecordLimit"/>
+  <rules name="relis_new_2_da_sdg_RecordLimit_6" artifact="relis_new_2_da_sdg" relatedRules="ref_exclusioncrieria_TypeLimit_6" ruleDef="IdIndex:0,Entity:relis_new_2_da_sdg,Limit:6" type="RecordLimit"/>
+  <rules name="relis_new_2_LC_RecordLimit_8" artifact="relis_new_2_LC" evalResult="true" relatedRules="ref_exclusioncrieria_TypeLimit_8_LC2021" ruleDef="IdIndex:0,Entity:relis_new_2_LC,Limit:8" type="RecordLimit"/>
+  <rules name="relis_new_2_mobileAndMDE_RecordLimit_4" artifact="relis_new_2_mobileAndMDE" evalResult="true" relatedRules="ref_exclusioncrieria_TypeLimit_4" ruleDef="IdIndex:0,Entity:relis_new_2_mobileAndMDE,Limit:4" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_1" artifact="relis_new_2_cps" relatedRules="relis_new_2_cps_RecordLimit_1" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:1" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_3" artifact="relis_new_2_da_sdf" relatedRules="relis_new_2_da_sdf_RecordLimit_3" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:3" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_6" artifact="relis_new_2_da_sdg" relatedRules="relis_new_2_da_sdg_RecordLimit_6" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:6" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_7" artifact="relis_new_2_extremo" relatedRules="relis_new_2_extremo_RecordLimit_7" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:7" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_8_LC2021" artifact="relis_new_2_LC" relatedRules="relis_new_2_LC2021_RecordLimit_8" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:8" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_8_MDE" artifact="relis_new_2_LC2021" relatedRules="relis_new_2_smsUpdateCollabMDE_RecordLimit_8" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:8" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_4" artifact="relis_new_2_mobileAndMDE" relatedRules="relis_new_2_mobileAndMDE_RecordLimit_4" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:4" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_2" artifact="relis_new_2_mobileapps_6252" relatedRules="relis_new_2_mobileapps_6252_RecordLimit_2" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:2" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_5" artifact="relis_new_2_rl4se" relatedRules="relis_new_2_rl4se_RecordLimit_5" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:5" type="RecordLimit"/>
+  <rules name="ref_exclusioncrieria_TypeLimit_8_LC" artifact="relis_new_2_smsUpdateCollabMDE" relatedRules="relis_new_2_LC_RecordLimit_8" ruleDef="IdIndex:0,Type:ref_exclusioncrieria,Limit:8" type="RecordLimit"/>
+</tmelif:Scenario>

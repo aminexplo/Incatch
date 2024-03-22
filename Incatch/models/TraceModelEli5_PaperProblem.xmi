@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="LocoDs">
+  <rules name="Assignment_RecordLimit_2" artifact="Assignment" relatedRules="Senior_TypeLimit_1 Junior_TypeLimit_2" ruleDef="IdIndex:0,Entity:Assignment,Limit:2" type="RecordLimit"/>
+  <rules name="Senior_TypeLimit_1" artifact="Assignment" relatedRules="Assignment_RecordLimit_2" ruleDef="IdIndex:0,Type:Senior,Limit:1" type="RecordLimit"/>
+  <rules name="Junior_TypeLimit_2" artifact="Assignment" relatedRules="Assignment_RecordLimit_2" ruleDef="IdIndex:0,Type:Junior,Limit:2" type="RecordLimit"/>
+</tmelif:Scenario>

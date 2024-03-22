@@ -1,0 +1,17 @@
+No inconsistencies found in scenario: min-rules-easy-one-inc
+
+CONSISTENT:
+Check min_rules_easy_one_inc_Assertion____R1____R2 for 1
+
+CONSISTENT:
+Check min_rules_easy_one_inc_Assertion____R3____R4 for 1
+
+CONSISTENT:
+Check min_rules_easy_one_inc_Assertion____R5____R6 for 1
+
+CONSISTENT:
+Check min_rules_easy_one_inc_Assertion____R7____R8 for 1
+
+CONSISTENT:
+Check min_rules_easy_one_inc_Assertion____R9____R10 for 1
+

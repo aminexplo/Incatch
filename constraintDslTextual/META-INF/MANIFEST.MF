@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: constraintDslTextual
+Bundle-ManifestVersion: 2
+Bundle-Name: constraintDslTextual
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: constraintDslTextual; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: Incatch,
+ org.eclipse.xtext,
+ org.eclipse.xtext.xbase,
+ org.eclipse.equinox.common;bundle-version="3.5.0",
+ org.eclipse.xtext.xbase.lib;bundle-version="2.14.0",
+ org.eclipse.xtext.util,
+ org.antlr.runtime;bundle-version="[3.2.0,3.2.1)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: zombie.incatch.constraintdsl.parser.antlr.internal,
+ zombie.incatch.constraintdsl,
+ zombie.incatch.constraintdsl.serializer,
+ zombie.incatch.constraintdsl.parser.antlr,
+ zombie.incatch.constraintdsl.validation,
+ zombie.incatch.constraintdsl.formatting2,
+ zombie.incatch.constraintdsl.services,
+ zombie.incatch.constraintdsl.scoping,
+ zombie.incatch.constraintdsl.generator
+Import-Package: org.apache.log4j

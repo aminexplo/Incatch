@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ASCII"?>
+<gmfmap:Mapping
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:gmfmap="http://www.eclipse.org/gmf/2008/mappings"
+    xmlns:gmftool="http://www.eclipse.org/gmf/2005/ToolDefinition">
+  <nodes>
+    <containmentFeature
+        href="TraceMetamodelEli5.ecore#//Scenario/rules"/>
+    <ownedChild>
+      <domainMetaElement
+          href="TraceMetamodelEli5.ecore#//Rule"/>
+      <labelMappings
+          xsi:type="gmfmap:FeatureLabelMapping">
+        <diagramLabel
+            href="TraceMetamodelEli5.gmfgraph#RuleLabel"/>
+        <features
+            href="TraceMetamodelEli5.ecore#//Rule/name"/>
+      </labelMappings>
+      <tool
+          xsi:type="gmftool:CreationTool"
+          href="TraceMetamodelEli5.gmftool#//@palette/@tools.0/@tools.0"/>
+      <diagramNode
+          href="TraceMetamodelEli5.gmfgraph#Rule"/>
+    </ownedChild>
+  </nodes>
+  <diagram>
+    <diagramCanvas
+        href="TraceMetamodelEli5.gmfgraph#TraceMetamodelEli5"/>
+    <domainModel
+        href="TraceMetamodelEli5.ecore#/"/>
+    <domainMetaElement
+        href="TraceMetamodelEli5.ecore#//Scenario"/>
+    <palette
+        href="TraceMetamodelEli5.gmftool#//@palette"/>
+  </diagram>
+</gmfmap:Mapping>

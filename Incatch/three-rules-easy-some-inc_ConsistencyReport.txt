@@ -1,0 +1,5 @@
+Inconsistencies found in scenario: three-rules-easy-some-inc
+
+INCONSISTENT:
+Check three_rules_easy_some_inc_Assertion____R2____R1 for 1
+

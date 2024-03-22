@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="max-rules-medium-all-inc">
+  <rules name="R1" artifact="PersonPhone" relatedRules="R2" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R2" artifact="PersonPhone" relatedRules="R1" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R3" artifact="PersonPhone" relatedRules="R4 R6 R8 R10 R12 R14 R16 R18 R20" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R4" artifact="PersonPhone" relatedRules="R3 R25 R27 R29 R31 R33 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R5" artifact="PersonPhone" relatedRules="R6 R8 R10 R12 R14 R16 R18 R20 R22" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R6" artifact="PersonPhone" relatedRules="R3 R5 R27 R29 R31 R33 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R7" artifact="PersonPhone" relatedRules="R8 R10 R12 R14 R16 R18 R20 R22 R24" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R8" artifact="PersonPhone" relatedRules="R3 R5 R7 R29 R31 R33 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R9" artifact="PersonPhone" relatedRules="R10 R12 R14 R16 R18 R20 R22 R24 R26" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R10" artifact="PersonPhone" relatedRules="R3 R5 R7 R9 R31 R33 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R11" artifact="PersonPhone" relatedRules="R12 R14 R16 R18 R20 R22 R24 R26 R28" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R12" artifact="PersonPhone" relatedRules="R3 R5 R7 R9 R11 R33 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R13" artifact="PersonPhone" relatedRules="R14 R16 R18 R20 R22 R24 R26 R28 R30" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R14" artifact="PersonPhone" relatedRules="R3 R5 R7 R9 R11 R13 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R15" artifact="PersonPhone" relatedRules="R16 R18 R20 R22 R24 R26 R28 R30 R32" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R16" artifact="PersonPhone" relatedRules="R3 R5 R7 R9 R11 R13 R15 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R17" artifact="PersonPhone" relatedRules="R18 R20 R22 R24 R26 R28 R30 R32 R34" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R18" artifact="PersonPhone" relatedRules="R3 R5 R7 R9 R11 R13 R15 R17 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R19" artifact="PersonPhone" relatedRules="R20 R22 R24 R26 R28 R30 R32 R34 R36" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R20" artifact="PersonPhone" relatedRules="R3 R5 R7 R9 R11 R13 R15 R17 R19" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R21" artifact="PersonPhone" relatedRules="R22 R24 R26 R28 R30 R32 R34 R36 R38" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R22" artifact="PersonPhone" relatedRules="R5 R7 R9 R11 R13 R15 R17 R19 R21" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R23" artifact="PersonPhone" relatedRules="R24 R26 R28 R30 R32 R34 R36 R38 R40" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R24" artifact="PersonPhone" relatedRules="R7 R9 R11 R13 R15 R17 R19 R21 R23" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R25" artifact="PersonPhone" relatedRules="R26 R28 R30 R32 R34 R36 R38 R40 R4" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R26" artifact="PersonPhone" relatedRules="R9 R11 R13 R15 R17 R19 R21 R23 R25" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R27" artifact="PersonPhone" relatedRules="R28 R30 R32 R34 R36 R38 R40 R4 R6" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R28" artifact="PersonPhone" relatedRules="R11 R13 R15 R17 R19 R21 R23 R25 R27" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R29" artifact="PersonPhone" relatedRules="R30 R32 R34 R36 R38 R40 R4 R6 R8" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R30" artifact="PersonPhone" relatedRules="R13 R15 R17 R19 R21 R23 R25 R27 R29" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R31" artifact="PersonPhone" relatedRules="R32 R34 R36 R38 R40 R4 R6 R8 R10" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R32" artifact="PersonPhone" relatedRules="R15 R17 R19 R21 R23 R25 R27 R29 R31" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R33" artifact="PersonPhone" relatedRules="R34 R36 R38 R40 R4 R6 R8 R10 R12" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R34" artifact="PersonPhone" relatedRules="R17 R19 R21 R23 R25 R27 R29 R31 R33" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R35" artifact="PersonPhone" relatedRules="R36 R38 R40 R4 R6 R8 R10 R12 R14" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R36" artifact="PersonPhone" relatedRules="R19 R21 R23 R25 R27 R29 R31 R33 R35" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R37" artifact="PersonPhone" relatedRules="R38 R40 R4 R6 R8 R10 R12 R14 R16" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R38" artifact="PersonPhone" relatedRules="R21 R23 R25 R27 R29 R31 R33 R35 R37" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R39" artifact="PersonPhone" relatedRules="R40 R4 R6 R8 R10 R12 R14 R16 R18" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R40" artifact="PersonPhone" relatedRules="R23 R25 R27 R29 R31 R33 R35 R37 R39" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+</tmelif:Scenario>

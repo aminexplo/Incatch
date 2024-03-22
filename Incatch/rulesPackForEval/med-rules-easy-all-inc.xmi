@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<tmelif:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:tmelif="zombie.incatch.tracemetamodeleli5" name="med-rules-easy-all-inc">
+  <rules name="R1" artifact="PersonPhone" relatedRules="R2" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R2" artifact="PersonPhone" relatedRules="R1" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R3" artifact="PersonPhone" relatedRules="R4" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R4" artifact="PersonPhone" relatedRules="R3" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R5" artifact="PersonPhone" relatedRules="R6" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R6" artifact="PersonPhone" relatedRules="R5" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R7" artifact="PersonPhone" relatedRules="R8" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R8" artifact="PersonPhone" relatedRules="R7" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R9" artifact="PersonPhone" relatedRules="R10" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R10" artifact="PersonPhone" relatedRules="R9" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R11" artifact="PersonPhone" relatedRules="R12" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R12" artifact="PersonPhone" relatedRules="R11" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R13" artifact="PersonPhone" relatedRules="R14" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R14" artifact="PersonPhone" relatedRules="R13" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R15" artifact="PersonPhone" relatedRules="R16" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R16" artifact="PersonPhone" relatedRules="R15" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R17" artifact="PersonPhone" relatedRules="R18" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R18" artifact="PersonPhone" relatedRules="R17" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+  <rules name="R19" artifact="PersonPhone" relatedRules="R20" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:3" type="RecordLimit"/>
+  <rules name="R20" artifact="PersonPhone" relatedRules="R19" ruleDef="IdIndex:0,Entity:PersonPhone,Limit:2" type="RecordLimit"/>
+</tmelif:Scenario>

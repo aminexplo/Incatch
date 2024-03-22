@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd:Config xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:cd="zombie.incatch.configdsl">
+  <project Name="Chocohalice project2"/>
+  <simpleStringFields
+      Name="Made in"
+      Size="32"
+      IsRequired="true"/>
+  <dynamicListFields
+      Name="Cocoa level"
+      IsRequired="true">
+    <dynamicListItems
+        Name="Bitter"/>
+    <dynamicListItems
+        Name="Bittersweet"/>
+    <dynamicListItems
+        Name="SemiSweet"/>
+    <dynamicListItems
+        Name="MilkChocolate"/>
+  </dynamicListFields>
+</cd:Config>

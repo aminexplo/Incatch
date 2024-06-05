@@ -25,6 +25,8 @@ The rule packs for evaluation can be found in `Incatch/Incatch/rulesPackForEval`
 1. Pass the rule packs to the simple runner in `Incatch/Incatch/src/TraceMetamodelEli5/` to generate Alloy files.
 2. Reconfigure the Ant builder in `Incatch/Incatch/build.xml` to start from creating trace models, redo the interpretations (external rule evaluators), and proceed to the analysis.
 
+Ensure you have the necessary dependency installed. [alloytools](https://github.com/AlloyTools/org.alloytools.alloy/releases/tag/v5.1.0)
+
 #### Output
 
 The evaluation output is located in `Incatch/Incatch/src/OutputV7.xlsx`.
